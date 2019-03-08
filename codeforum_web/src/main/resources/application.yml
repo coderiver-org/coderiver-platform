@@ -1,0 +1,19 @@
+server:
+  port: 9112
+spring:
+  application:
+    name: codeforum-web
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:6868/eureka/
+  instance:
+    prefer-ip-address: true
+zuul:
+  routes:
+    codeforum-user:
+      path: /user/**
+      serviceId: codeforum-user
+logging:
+  level:
+    com.coderiver.codeforum.web: debug

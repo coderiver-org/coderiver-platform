@@ -1,0 +1,19 @@
+server:
+  port: 16010
+spring:
+  application:
+    name: codeforum-message
+  rabbitmq:
+    host: 192.168.188.101
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:6868/eureka/
+  instance:
+    prefer-ip-address: true
+feign:
+  hystrix:
+    enabled: true
+logging:
+  level:
+    com.coderiver.codeforum.message: debug
