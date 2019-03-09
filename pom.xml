@@ -14,6 +14,7 @@
         <module>codeforum_eureka</module>
         <module>codeforum_web</module>
         <module>codeforum_message</module>
+        <module>codeforum_contract</module>
     </modules>
 
     <packaging>pom</packaging>
