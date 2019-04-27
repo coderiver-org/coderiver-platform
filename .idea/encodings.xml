@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/codeforum_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/codeforum_contract" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/codeforum_eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/codeforum_message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/codeforum_user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/codeforum_web" charset="UTF-8" />
+  </component>
+</project>
