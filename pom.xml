@@ -15,6 +15,7 @@
         <module>codeforum_web</module>
         <module>codeforum_message</module>
         <module>codeforum_contract</module>
+        <module>coderforum_project</module>
     </modules>
 
     <packaging>pom</packaging>

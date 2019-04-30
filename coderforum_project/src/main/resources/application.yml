@@ -1,11 +1,11 @@
 server:
-  port: 16001
+  port: 16002
 spring:
   application:
-    name: codeforum-user
+    name: codeforum-project
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://192.168.188.101:3306/coderiver_codeforum_db?characterEncoding=utf-8
+    url: jdbc:mysql://127.0.0.1:3306/coderiver_codeforum_db?characterEncoding=utf-8
     username: root
     password: 123456
   jpa:
@@ -25,7 +25,7 @@ feign:
     enabled: true
 logging:
   level:
-    com.coderiver.codeforum.user: debug
+    com.coderiver.codeforum.project: debug
 message:
   mq:
     email:

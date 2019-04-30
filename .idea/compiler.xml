@@ -6,12 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="codeforum_web" />
-        <module name="coderforum_user" />
         <module name="codeforum_common" />
-        <module name="codeforum_message" />
-        <module name="codeforum_eureka" />
         <module name="codeforum_contract" />
+        <module name="codeforum_eureka" />
+        <module name="codeforum_message" />
+        <module name="codeforum_web" />
+        <module name="coderforum_project" />
+        <module name="coderforum_user" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +22,7 @@
       <module name="codeforum_eureka" target="1.8" />
       <module name="codeforum_message" target="1.8" />
       <module name="codeforum_web" target="1.8" />
+      <module name="coderforum_project" target="1.8" />
       <module name="coderforum_user" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -31,6 +33,7 @@
       <module name="codeforum_eureka" options="-parameters" />
       <module name="codeforum_message" options="-parameters" />
       <module name="codeforum_web" options="-parameters" />
+      <module name="coderforum_project" options="-parameters" />
       <module name="coderforum_user" options="-parameters" />
     </option>
   </component>
