@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/codeforum.iml" filepath="$PROJECT_DIR$/codeforum.iml" />
-      <module fileurl="file://$PROJECT_DIR$/codeforum.iml" filepath="$PROJECT_DIR$/codeforum.iml" />
       <module fileurl="file://$PROJECT_DIR$/codeforum_common/codeforum_common.iml" filepath="$PROJECT_DIR$/codeforum_common/codeforum_common.iml" />
       <module fileurl="file://$PROJECT_DIR$/codeforum_contract/codeforum_contract.iml" filepath="$PROJECT_DIR$/codeforum_contract/codeforum_contract.iml" />
       <module fileurl="file://$PROJECT_DIR$/codeforum_eureka/codeforum_eureka.iml" filepath="$PROJECT_DIR$/codeforum_eureka/codeforum_eureka.iml" />
@@ -11,6 +10,10 @@
       <module fileurl="file://$PROJECT_DIR$/codeforum_web/codeforum_web.iml" filepath="$PROJECT_DIR$/codeforum_web/codeforum_web.iml" />
       <module fileurl="file://$PROJECT_DIR$/coderforum_project/coderforum_project.iml" filepath="$PROJECT_DIR$/coderforum_project/coderforum_project.iml" />
       <module fileurl="file://$PROJECT_DIR$/codeforum_user/coderforum_user.iml" filepath="$PROJECT_DIR$/codeforum_user/coderforum_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coderforum_project/project_common/project_common.iml" filepath="$PROJECT_DIR$/coderforum_project/project_common/project_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coderforum_project/project_dao/project_dao.iml" filepath="$PROJECT_DIR$/coderforum_project/project_dao/project_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coderforum_project/project_service/project_service.iml" filepath="$PROJECT_DIR$/coderforum_project/project_service/project_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coderforum_project/project_web/project_web.iml" filepath="$PROJECT_DIR$/coderforum_project/project_web/project_web.iml" />
     </modules>
   </component>
 </project>

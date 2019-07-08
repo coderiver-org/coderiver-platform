@@ -1,0 +1,37 @@
+server:
+  port: 16002
+spring:
+  application:
+    name: codeforum-com.coderiver.codeforum.project
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/coderiver_codeforum_db?characterEncoding=utf-8
+    username: root
+    password: 123456
+  jpa:
+    database: mysql
+    show-sql: true
+    generate-ddl: false
+  rabbitmq:
+    host: 192.168.188.101
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:6868/eureka/
+  instance:
+    prefer-ip-address: true
+feign:
+  hystrix:
+    enabled: true
+logging:
+  level:
+    com.coderiver.codeforum.project: debug
+message:
+  mq:
+    email:
+      exchange: emailexchange
+      register:
+        topic: user.email.register
+    sms:
+      exchange: smsexchange
+      topic: user.sms.register

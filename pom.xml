@@ -30,8 +30,8 @@
     </parent>
 
     <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <com.coderiver.codeforum.project.build.sourceEncoding>UTF-8</com.coderiver.codeforum.project.build.sourceEncoding>
+        <com.coderiver.codeforum.project.reporting.outputEncoding>UTF-8</com.coderiver.codeforum.project.reporting.outputEncoding>
         <java.version>1.8</java.version>
         <coderiver.common.version>1.0-SNAPSHOT</coderiver.common.version>
     </properties>

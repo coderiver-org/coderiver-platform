@@ -4,7 +4,7 @@
  
 *.iml
  
-## Directory-based project format:
+## Directory-based com.coderiver.codeforum.project format:
 .idea/
 # if you remove the above rule, at least ignore the following:
  
@@ -28,7 +28,7 @@
 # Mongo Explorer plugin:
 # .idea/mongoSettings.xml
  
-## File-based project format:
+## File-based com.coderiver.codeforum.project format:
 *.ipr
 *.iws
  

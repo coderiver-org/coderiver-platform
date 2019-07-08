@@ -11,8 +11,11 @@
         <module name="codeforum_eureka" />
         <module name="codeforum_message" />
         <module name="codeforum_web" />
-        <module name="coderforum_project" />
         <module name="coderforum_user" />
+        <module name="project_common" />
+        <module name="project_dao" />
+        <module name="project_service" />
+        <module name="project_web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,6 +27,13 @@
       <module name="codeforum_web" target="1.8" />
       <module name="coderforum_project" target="1.8" />
       <module name="coderforum_user" target="1.8" />
+      <module name="dao" target="1.8" />
+      <module name="project_common" target="1.8" />
+      <module name="project_dao" target="1.8" />
+      <module name="project_service" target="1.8" />
+      <module name="project_web" target="1.8" />
+      <module name="service" target="1.8" />
+      <module name="web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -35,6 +45,13 @@
       <module name="codeforum_web" options="-parameters" />
       <module name="coderforum_project" options="-parameters" />
       <module name="coderforum_user" options="-parameters" />
+      <module name="dao" options="-parameters" />
+      <module name="project_common" options="-parameters" />
+      <module name="project_dao" options="-parameters" />
+      <module name="project_service" options="-parameters" />
+      <module name="project_web" options="-parameters" />
+      <module name="service" options="-parameters" />
+      <module name="web" options="-parameters" />
     </option>
   </component>
 </project>
