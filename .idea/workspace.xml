@@ -1,73 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47399ee3-d8be-4464-bdf1-c0cf81faf8f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/coderforum_project/project_common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coderforum_project/project_common/src/main/java/com/coderiver/codeforum/project/hah.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coderforum_project/project_dao/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coderforum_project/project_dao/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coderforum_project/project_service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coderforum_project/project_web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_0_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_0_0_M8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_0_0_M8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_0_0_M8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_0_0_M8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_0_0_M8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/ProjectApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/ProjectApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/config/InitBeanConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/InitBeanConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/config/Swagger2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/Swagger2Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/WebSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/consts/ConstantsPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_common/src/main/java/com/coderiver/codeforum/project/consts/ConstantsPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/controller/ProjectCategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/controller/ProjectCategoryController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/controller/ProjectInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/controller/ProjectInfoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/dao/ProjectCategoryDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_dao/src/main/java/com/coderiver/codeforum/project/dao/ProjectCategoryDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/dao/ProjectInfoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_dao/src/main/java/com/coderiver/codeforum/project/dao/ProjectInfoDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/exception/CustomerException.java" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_service/src/main/java/com/coderiver/codeforum/project/exception/CustomerException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/exception/ExceptionHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_service/src/main/java/com/coderiver/codeforum/project/exception/ExceptionHandle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/pojo/ProjectCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_dao/src/main/java/com/coderiver/codeforum/project/pojo/ProjectCategory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/pojo/ProjectInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_dao/src/main/java/com/coderiver/codeforum/project/pojo/ProjectInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/pojo/ProjectInfoForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_dao/src/main/java/com/coderiver/codeforum/project/pojo/ProjectInfoForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/pojo/ProjectLikeUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_dao/src/main/java/com/coderiver/codeforum/project/pojo/ProjectLikeUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/pojo/ProjectPicture.java" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_dao/src/main/java/com/coderiver/codeforum/project/pojo/ProjectPicture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/service/ProjectCategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_service/src/main/java/com/coderiver/codeforum/project/service/ProjectCategoryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/service/ProjectInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_service/src/main/java/com/coderiver/codeforum/project/service/ProjectInfoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/util/ResultUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_common/src/main/java/com/coderiver/codeforum/project/util/ResultUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/test/java/com/coderiver/codeforum/project/ProjectApplicationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/src/test/java/com/coderiver/codeforum/project/service/ProjectCategoryServiceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="47399ee3-d8be-4464-bdf1-c0cf81faf8f6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/codeforum_user/target/" />
@@ -103,20 +37,20 @@
           <entry key="class" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="hha" value="1" />
-          <entry key="java" value="134" />
+          <entry key="java" value="137" />
           <entry key="sql" value="2" />
           <entry key="xml" value="52" />
-          <entry key="yml" value="11" />
+          <entry key="yml" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="135" />
+          <entry key="JAVA" value="138" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="SQL" value="2" />
           <entry key="XML" value="52" />
-          <entry key="YAML" value="11" />
+          <entry key="YAML" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
@@ -145,41 +79,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/ProjectApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/controller/ProjectCategoryController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codeforum_eureka/src/main/java/com/coderiver/codeforum/eureka/EurekaServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -203,7 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/codeforum_user/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/config/InitBeanConfig.java" />
         <option value="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/config/WebSecurityConfig.java" />
         <option value="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/pojo/ProjectInfo.java" />
@@ -254,6 +153,7 @@
         <option value="$PROJECT_DIR$/coderforum_project/project_web/pom.xml" />
         <option value="$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/controller/ProjectInfoController.java" />
         <option value="$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/controller/ProjectCategoryController.java" />
+        <option value="$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/Swagger2Config.java" />
       </list>
     </option>
   </component>
@@ -298,93 +198,7 @@
             <path>
               <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
               <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="codeforum_eureka" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="codeforum_eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="codeforum_eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="codeforum_eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="codeforum_eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
               <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
-              <item name="project_web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
-              <item name="project_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
-              <item name="project_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
-              <item name="project_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
-              <item name="project_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
-              <item name="project_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -402,7 +216,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562598569053" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562599046340" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -613,13 +427,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25266000" />
+    <option name="totallyTimeSpent" value="25863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26108727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26108727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -629,13 +442,13 @@
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.3821656" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.3821656" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -921,15 +734,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/WebSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/Swagger2Config.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/InitBeanConfig.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/controller/ProjectInfoController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -955,9 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-71" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/coderforum_project/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -997,6 +798,34 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/InitBeanConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/Swagger2Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
