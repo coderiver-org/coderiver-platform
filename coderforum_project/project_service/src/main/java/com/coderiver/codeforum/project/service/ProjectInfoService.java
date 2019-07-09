@@ -103,6 +103,11 @@ public class ProjectInfoService {
         return new PageResult(infoPage.getTotalElements(), infoPage.getContent());
     }
 
+    /**
+     * 通过id查询项目
+     * @param id
+     * @return
+     */
     public ProjectInfo findById(String id) {
         Optional<ProjectInfo> optional = infoDao.findById(id);
         if (!optional.isPresent()) {

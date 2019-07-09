@@ -11,5 +11,12 @@
 
     <artifactId>project_common</artifactId>
 
+    <dependencies>
+        <dependency>
+            <artifactId>codeforum_common</artifactId>
+            <groupId>com.coderiver</groupId>
+            <version>${coderiver.common.version}</version>
+        </dependency>
+    </dependencies>
 
 </project>

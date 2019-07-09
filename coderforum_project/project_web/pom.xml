@@ -15,7 +15,7 @@
         <dependency>
             <groupId>com.coderiver</groupId>
             <artifactId>project_service</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>${project-service-version}</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>

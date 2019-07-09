@@ -18,36 +18,10 @@
         <module>project_web</module>
     </modules>
 
-    <dependencies>
-
-        <dependency>
-            <artifactId>codeforum_common</artifactId>
-            <groupId>com.coderiver</groupId>
-            <version>${coderiver.common.version}</version>
-        </dependency>
-
-        <!-- tools -->
-        <dependency>
-            <groupId>org.apache.commons</groupId>
-            <artifactId>commons-lang3</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>com.google.guava</groupId>
-            <artifactId>guava</artifactId>
-            <version>20.0</version>
-            <exclusions>
-                <exclusion>
-                    <groupId>com.google.guava</groupId>
-                    <artifactId>guava</artifactId>
-                </exclusion>
-            </exclusions>
-        </dependency>
-    </dependencies>
+    <properties>
+        <project-common-version>1.0-SNAPSHOT</project-common-version>
+        <project-dao-version>1.0-SNAPSHOT</project-dao-version>
+        <project-service-version>1.0-SNAPSHOT</project-service-version>
+    </properties>
 
 </project>
