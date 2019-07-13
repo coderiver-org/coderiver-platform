@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47399ee3-d8be-4464-bdf1-c0cf81faf8f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/LiquibaseConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/liquibase/changelogs/changelog-1.0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/liquibase/master.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coderforum_project/project_common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/project_common/src/main/java/com/coderiver/codeforum/project/hah.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/coderforum_project/project_dao/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_dao/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/project_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/project_service/src/main/java/com/coderiver/codeforum/project/service/ProjectInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_service/src/main/java/com/coderiver/codeforum/project/service/ProjectInfoService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coderforum_project/project_web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,58 +43,66 @@
     <session id="-380732869">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
+          <entry key="0-SNAPSHOT" value="2" />
+          <entry key="class" value="3" />
           <entry key="gitignore" value="2" />
           <entry key="hha" value="1" />
-          <entry key="java" value="141" />
-          <entry key="sql" value="2" />
-          <entry key="xml" value="60" />
-          <entry key="yml" value="12" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="145" />
+          <entry key="pom" value="1" />
+          <entry key="sql" value="3" />
+          <entry key="xml" value="81" />
+          <entry key="yml" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="142" />
+          <entry key="CLASS" value="3" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="146" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="SQL" value="2" />
-          <entry key="XML" value="60" />
-          <entry key="YAML" value="12" />
+          <entry key="SQL" value="3" />
+          <entry key="UML" value="2" />
+          <entry key="XML" value="82" />
+          <entry key="YAML" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="4643" />
-          <entry key="xml" value="309" />
-          <entry key="yml" value="34" />
+          <entry key="java" value="4663" />
+          <entry key="xml" value="669" />
+          <entry key="yml" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4643" />
+          <entry key="JAVA" value="4663" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="309" />
-          <entry key="YAML" value="34" />
+          <entry key="XML" value="669" />
+          <entry key="YAML" value="42" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coderforum_project/pom.xml">
+        <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state relative-caret-position="-156">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
@@ -102,44 +110,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coderforum_project/project_common/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/src/main/java/com/coderiver/codeforum/project/dao/ProjectInfoDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coderforum_project/project_service/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+            <state relative-caret-position="240">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/pom.xml">
+        <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+            <state relative-caret-position="264">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/liquibase/changelogs/changelog-1.0.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -153,9 +143,15 @@
         <option value="JUnit4 Test Class" />
         <option value="FxmlFile" />
         <option value="spring-beans.schema" />
+        <option value="XML Mapper File" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dropFirst</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -168,13 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/config/InitBeanConfig.java" />
-        <option value="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/config/WebSecurityConfig.java" />
-        <option value="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/pojo/ProjectInfo.java" />
-        <option value="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/pojo/ProjectLikeUser.java" />
-        <option value="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/pojo/ProjectPicture.java" />
-        <option value="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/exception/CustomerException.java" />
-        <option value="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/util/ResultUtil.java" />
         <option value="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/exception/ExceptionHandle.java" />
         <option value="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/pojo/ProjectCategory.java" />
         <option value="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/dao/ProjectCategoryDao.java" />
@@ -214,11 +203,18 @@
         <option value="$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/controller/ProjectCategoryController.java" />
         <option value="$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/Swagger2Config.java" />
         <option value="$PROJECT_DIR$/coderforum_project/project_service/src/main/java/com/coderiver/codeforum/project/service/ProjectInfoService.java" />
-        <option value="$PROJECT_DIR$/coderforum_project/project_dao/pom.xml" />
-        <option value="$PROJECT_DIR$/coderforum_project/project_common/pom.xml" />
-        <option value="$PROJECT_DIR$/coderforum_project/project_service/pom.xml" />
         <option value="$PROJECT_DIR$/coderforum_project/pom.xml" />
+        <option value="$PROJECT_DIR$/coderforum_project/project_dao/src/main/resources/liquibase/master.xml" />
+        <option value="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/liquibase/changelog-1.0.xml" />
+        <option value="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/liquibase/master.xml" />
+        <option value="$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/LiquibaseConfig.java" />
+        <option value="$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/ProjectApplication.java" />
+        <option value="$PROJECT_DIR$/coderforum_project/project_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/coderforum_project/project_service/pom.xml" />
+        <option value="$PROJECT_DIR$/coderforum_project/project_common/pom.xml" />
         <option value="$PROJECT_DIR$/coderforum_project/project_web/pom.xml" />
+        <option value="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/liquibase/changelogs/changelog-1.0.xml" />
+        <option value="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -239,6 +235,31 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="coderforum_project" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="coderforum_project" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="project_web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="project_web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -265,41 +286,6 @@
             <path>
               <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
               <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="codeforum_common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="codeforum_common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="codeforum_common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="codeforum_common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="codeforum_common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
               <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -307,6 +293,51 @@
               <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
               <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
               <item name="project_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
+              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
+              <item name="project_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
+              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
+              <item name="project_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
+              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
+              <item name="project_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
+              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
+              <item name="project_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="liquibase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
+              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
+              <item name="project_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="liquibase" type="462c0819:PsiDirectoryNode" />
+              <item name="changelogs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -322,7 +353,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562686123887" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562993437695" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -337,21 +368,24 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.coderiver.codeforum.project.service" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/liquibase/changelogs" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.coderiver.codeforum.project" />
       <recent name="com.coderiver.codeforum.project.util" />
       <recent name="com.coderiver.codeforum.project.consts" />
       <recent name="com.coderiver.codeforum.project.config" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/liquibase" />
       <recent name="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources" />
       <recent name="$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project" />
       <recent name="$PROJECT_DIR$/coderforum_project/project_service/src/main/java/com/coderiver/codeforum/project" />
       <recent name="$PROJECT_DIR$/coderforum_project/project_dao/src/main/resources" />
-      <recent name="$PROJECT_DIR$/coderforum_project/project_dao/src/main/java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -504,7 +538,10 @@
       <updated>1556403060288</updated>
       <workItem from="1556403062985" duration="805000" />
       <workItem from="1556589078363" duration="17166000" />
-      <workItem from="1562680420526" duration="2409000" />
+      <workItem from="1562680420526" duration="2604000" />
+      <workItem from="1562771809047" duration="1413000" />
+      <workItem from="1562853882329" duration="2422000" />
+      <workItem from="1562984067631" duration="5870000" />
     </task>
     <task id="LOCAL-00001" summary="Update Third Part Service Docker Command">
       <created>1556403823707</created>
@@ -534,13 +571,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28687000" />
+    <option name="totallyTimeSpent" value="38587000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26466382" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27539343" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -550,13 +587,13 @@
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.3821656" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.3121019" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.8369427" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -572,8 +609,8 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="9" />
-      <window_info anchor="right" id="Maven Projects" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297568" />
+      <window_info anchor="right" id="Maven Projects" order="10" weight="0.3297568" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -587,26 +624,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update Third Part Service Docker Command" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/controller/ProjectInfoController.java" />
-    <entry file="file://$PROJECT_DIR$/coderforum_project/dao/src/main/java/com/coderiver/codeforum/project/dao/ProjectCategoryDao.java" />
-    <entry file="file://$PROJECT_DIR$/coderforum_project/dao/src/main/java/com/coderiver/codeforum/project/dao/ProjectInfoDao.java" />
-    <entry file="file://$PROJECT_DIR$/coderforum_project/common/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/coderforum_project/service/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/coderforum_project/web/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/src/main/java/com/coderiver/codeforum/project/pojo/ProjectLikeUser.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/src/main/java/com/coderiver/codeforum/project/pojo/ProjectPicture.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/dao/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/src/main/java/com/coderiver/codeforum/project/pojo/ProjectCategory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/src/main/java/com/coderiver/codeforum/project/pojo/ProjectInfoForm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -624,22 +641,13 @@
     <entry file="file://$PROJECT_DIR$/coderforum_project/dao/src/main/resources/application.yml" />
     <entry file="file://$PROJECT_DIR$/coderforum_project/project_service/src/main/java/com/coderiver/codeforum/project/hha.java" />
     <entry file="file://$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/consts/ConstantsPool.java" />
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_common/src/main/java/com/coderiver/codeforum/project/hah.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_common/src/main/java/com/coderiver/codeforum/project/hah.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.0.8.RELEASE/spring-data-jpa-2.0.8.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_service/src/main/java/com/coderiver/codeforum/project/exception/CustomerException.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/coderforum_project/project_common/src/main/java/com/coderiver/codeforum/project/util/ResultUtil.java">
       <provider selected="true" editor-type-id="text-editor" />
@@ -676,13 +684,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeforum_user/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/codeforum_web/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -706,27 +707,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/coderforum_project/src/main/resources/application.yml" />
     <entry file="file://$PROJECT_DIR$/coderforum_project/src/test/java/com/coderiver/codeforum/project/service/ProjectCategoryServiceTest.java" />
-    <entry file="file://$PROJECT_DIR$/codeforum_eureka/src/main/java/com/coderiver/codeforum/eureka/EurekaServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/ProjectApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/controller/ProjectCategoryController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -751,13 +735,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -772,9 +749,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1138">
           <caret line="106" column="15" selection-start-line="106" selection-start-column="15" selection-end-line="106" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -782,23 +756,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
           <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforum_common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -809,13 +766,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/src/main/java/com/coderiver/codeforum/project/dao/ProjectInfoDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -823,31 +773,408 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/pom.xml">
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/project_dao.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        <state relative-caret-position="242">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_service/pom.xml">
+    <entry file="file://$PROJECT_DIR$/codeforum_dbschema/mysql/coderiver_project_module.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/src/main/resources/liquibase/master.xml" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.3.RELEASE/spring-boot-autoconfigure-2.0.3.RELEASE.jar!/org/springframework/boot/autoconfigure/liquibase/LiquibaseProperties.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        <state relative-caret-position="141">
+          <caret line="66" column="30" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/liquibase/master.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="78" selection-start-line="6" selection-start-column="78" selection-end-line="6" selection-end-column="78" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/coderforum_project/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state relative-caret-position="418">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_service/src/main/java/com/coderiver/codeforum/project/exception/CustomerException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/LiquibaseConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforum_eureka/src/main/java/com/coderiver/codeforum/eureka/EurekaServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/io/springfox/springfox-swagger2/2.9.2/springfox-swagger2-2.9.2.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.coderiver:coderforum_project:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.coderiver:coderforum_project:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.coderiver:coderforum_project:1.0-SNAPSHOT</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0/org.apache.logging.log4j:log4j-api:jar:2.10.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.yaml:snakeyaml:jar:1.19</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.3/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.3/com.fasterxml.jackson.core:jackson-core:jar:2.9.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.31</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.31</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/javax.validation:validation-api:jar:2.0.1.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/com.fasterxml:classmate:jar:1.3.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-test:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2/org.ow2.asm:asm:jar:5.0.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/junit:junit:jar:4.12</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.assertj:assertj-core:jar:3.9.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.mockito:mockito-core:jar:2.15.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.mockito:mockito-core:jar:2.15.0/net.bytebuddy:byte-buddy:jar:1.7.11</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.mockito:mockito-core:jar:2.15.0/net.bytebuddy:byte-buddy-agent:jar:1.7.11</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.mockito:mockito-core:jar:2.15.0/org.objenesis:objenesis:jar:2.6</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE/org.springframework:spring-jcl:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.springframework:spring-test:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.xmlunit:xmlunit-core:jar:2.5.1</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.844732375198963" x="1992.598186207439" y="697.1541346974664" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.coderiver:project_web:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.coderiver:project_web:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.coderiver:project_web:1.0-SNAPSHOT</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_dao:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_dao:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.3.RELEASE</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_dao:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.3.RELEASE</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_dao:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.3.RELEASE/com.zaxxer:HikariCP:jar:2.7.9</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_dao:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.3.RELEASE/org.springframework:spring-jdbc:jar:5.0.7.RELEASE</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_dao:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.3.RELEASE/org.hibernate:hibernate-core:jar:5.2.17.Final</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_dao:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.3.RELEASE/org.hibernate:hibernate-core:jar:5.2.17.Final/org.hibernate.javax.persistence:hibernate-jpa-2.1-api:jar:1.0.2.Final</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_dao:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.3.RELEASE/org.hibernate:hibernate-core:jar:5.2.17.Final/org.javassist:javassist:jar:3.22.0-GA</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_dao:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.3.RELEASE/org.hibernate:hibernate-core:jar:5.2.17.Final/antlr:antlr:jar:2.7.7</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_dao:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.3.RELEASE/org.hibernate:hibernate-core:jar:5.2.17.Final/org.jboss:jandex:jar:2.0.3.Final</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_dao:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.3.RELEASE/org.hibernate:hibernate-core:jar:5.2.17.Final/dom4j:dom4j:jar:1.6.1</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_dao:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.3.RELEASE/org.hibernate:hibernate-core:jar:5.2.17.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.0.1.Final</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_dao:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.3.RELEASE/javax.transaction:javax.transaction-api:jar:1.2</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_dao:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.3.RELEASE/org.springframework.data:spring-data-jpa:jar:2.0.8.RELEASE</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_dao:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.3.RELEASE/org.springframework.data:spring-data-jpa:jar:2.0.8.RELEASE/org.springframework.data:spring-data-commons:jar:2.0.8.RELEASE</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_dao:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.3.RELEASE/org.springframework.data:spring-data-jpa:jar:2.0.8.RELEASE/org.springframework:spring-orm:jar:5.0.7.RELEASE</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_dao:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.3.RELEASE/org.springframework:spring-aspects:jar:5.0.7.RELEASE</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_dao:jar:1.0-SNAPSHOT/mysql:mysql-connector-java:jar:5.1.46</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_dao:jar:1.0-SNAPSHOT/org.projectlombok:lombok:jar:1.16.22</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_dao:jar:1.0-SNAPSHOT/org.liquibase:liquibase-core:jar:3.5.5</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_common:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_common:jar:1.0-SNAPSHOT/com.coderiver:codeforum_common:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">com.coderiver:project_service:jar:1.0-SNAPSHOT/com.coderiver:project_common:jar:1.0-SNAPSHOT/org.apache.commons:commons-lang3:jar:3.7</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0/org.apache.logging.log4j:log4j-api:jar:2.10.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.yaml:snakeyaml:jar:1.19</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter:jar:2.0.0.M9</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter:jar:2.0.0.M9/org.springframework.cloud:spring-cloud-context:jar:2.0.0.M9</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter:jar:2.0.0.M9/org.springframework.security:spring-security-rsa:jar:1.0.5.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter:jar:2.0.0.M9/org.springframework.security:spring-security-rsa:jar:1.0.5.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.56</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter:jar:2.0.0.M9/org.springframework.security:spring-security-rsa:jar:1.0.5.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.56/org.bouncycastle:bcprov-jdk15on:jar:1.56</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-netflix-core:jar:2.0.0.M8</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-netflix-core:jar:2.0.0.M8/org.springframework.boot:spring-boot-starter-aop:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-netflix-core:jar:2.0.0.M8/org.springframework.boot:spring-boot-starter-aop:jar:2.0.3.RELEASE/org.aspectj:aspectjweaver:jar:1.8.13</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-netflix-eureka-client:jar:2.0.0.M8</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/org.codehaus.jettison:jettison:jar:1.3.7</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/org.codehaus.jettison:jettison:jar:1.3.7/stax:stax-api:jar:1.0.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/commons-jxpath:commons-jxpath:jar:1.3</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/joda-time:joda-time:jar:2.9.9</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/org.antlr:antlr-runtime:jar:3.4</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/org.antlr:antlr-runtime:jar:3.4/org.antlr:stringtemplate:jar:3.2.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/com.google.code.gson:gson:jar:2.8.5</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/org.apache.commons:commons-math:jar:2.2</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.netflix.archaius:archaius-core:jar:0.7.5</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/javax.ws.rs:jsr311-api:jar:1.1.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.netflix.servo:servo-core:jar:0.10.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.netflix.servo:servo-core:jar:0.10.1/com.netflix.servo:servo-internal:jar:0.10.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.sun.jersey:jersey-core:jar:1.19.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.sun.jersey:jersey-client:jar:1.19.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.sun.jersey.contribs:jersey-apache-client4:jar:1.19.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/org.apache.httpcomponents:httpclient:jar:4.5.5</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/org.apache.httpcomponents:httpclient:jar:4.5.5/org.apache.httpcomponents:httpcore:jar:4.4.9</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/org.apache.httpcomponents:httpclient:jar:4.5.5/commons-codec:commons-codec:jar:1.11</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.google.inject:guice:jar:4.1.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.google.inject:guice:jar:4.1.0/javax.inject:javax.inject:jar:1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.google.inject:guice:jar:4.1.0/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.github.vlsi.compactmap:compactmap:jar:1.2.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.github.vlsi.compactmap:compactmap:jar:1.2.1/com.github.andrewoma.dexx:dexx-collections:jar:0.2</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.fasterxml.jackson.core:jackson-core:jar:2.9.3</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-client:jar:1.8.7/com.fasterxml.jackson.core:jackson-databind:jar:2.9.3</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-core:jar:1.8.7</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-core:jar:1.8.7/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-core:jar:1.8.7/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1/javax.xml.stream:stax-api:jar:1.0-2</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.eureka:eureka-core:jar:1.8.7/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1/org.codehaus.woodstox:stax2-api:jar:3.1.4</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.0.0.M8</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-netflix-ribbon:jar:2.0.0.M8</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-netflix-archaius:jar:2.0.0.M8</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.0.0.M8/commons-configuration:commons-configuration:jar:1.8</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.0.0.M8/commons-configuration:commons-configuration:jar:1.8/commons-lang:commons-lang:jar:2.6</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.0.0.M8/com.google.guava:guava:jar:18.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.0.M8</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.0.M8/com.netflix.ribbon:ribbon:jar:2.2.5</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.0.M8/com.netflix.ribbon:ribbon:jar:2.2.5/com.netflix.ribbon:ribbon-transport:jar:2.2.5</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.0.M8/com.netflix.ribbon:ribbon:jar:2.2.5/com.netflix.ribbon:ribbon-transport:jar:2.2.5/io.reactivex:rxnetty-contexts:jar:0.4.9</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.0.M8/com.netflix.ribbon:ribbon:jar:2.2.5/com.netflix.ribbon:ribbon-transport:jar:2.2.5/io.reactivex:rxnetty-servo:jar:0.4.9</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.0.M8/com.netflix.ribbon:ribbon:jar:2.2.5/io.reactivex:rxnetty:jar:0.4.9</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.0.M8/com.netflix.ribbon:ribbon:jar:2.2.5/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-codec-http:jar:4.1.25.Final</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.0.M8/com.netflix.ribbon:ribbon:jar:2.2.5/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-codec-http:jar:4.1.25.Final/io.netty:netty-codec:jar:4.1.25.Final</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.0.M8/com.netflix.ribbon:ribbon:jar:2.2.5/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-transport-native-epoll:jar:4.1.25.Final</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.0.M8/com.netflix.ribbon:ribbon:jar:2.2.5/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-transport-native-epoll:jar:4.1.25.Final/io.netty:netty-common:jar:4.1.25.Final</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.0.M8/com.netflix.ribbon:ribbon:jar:2.2.5/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-transport-native-epoll:jar:4.1.25.Final/io.netty:netty-buffer:jar:4.1.25.Final</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.0.M8/com.netflix.ribbon:ribbon:jar:2.2.5/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-transport-native-epoll:jar:4.1.25.Final/io.netty:netty-transport-native-unix-common:jar:4.1.25.Final</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.0.M8/com.netflix.ribbon:ribbon:jar:2.2.5/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-transport-native-epoll:jar:4.1.25.Final/io.netty:netty-transport:jar:4.1.25.Final</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.0.M8/com.netflix.ribbon:ribbon:jar:2.2.5/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-transport-native-epoll:jar:4.1.25.Final/io.netty:netty-transport:jar:4.1.25.Final/io.netty:netty-resolver:jar:4.1.25.Final</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.0.M8/com.netflix.ribbon:ribbon-core:jar:2.2.5</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.0.M8/com.netflix.ribbon:ribbon-httpclient:jar:2.2.5</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.0.M8/com.netflix.ribbon:ribbon-httpclient:jar:2.2.5/commons-collections:commons-collections:jar:3.2.2</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.0.M8/com.netflix.ribbon:ribbon-httpclient:jar:2.2.5/com.netflix.netflix-commons:netflix-commons-util:jar:0.1.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.0.M8/com.netflix.ribbon:ribbon-loadbalancer:jar:2.2.5</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.0.M8/com.netflix.ribbon:ribbon-loadbalancer:jar:2.2.5/com.netflix.netflix-commons:netflix-statistics:jar:0.1.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.0.0.M8/io.reactivex:rxjava:jar:1.3.8</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.netflix.ribbon:ribbon-eureka:jar:2.2.5</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.thoughtworks.xstream:xstream:jar:1.4.10</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.thoughtworks.xstream:xstream:jar:1.4.10/xmlpull:xmlpull:jar:1.1.3.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.0.0.M8/com.thoughtworks.xstream:xstream:jar:1.4.10/xpp3:xpp3_min:jar:1.1.4c</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.0.0.M2</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.0.0.M2/org.springframework.cloud:spring-cloud-openfeign-core:jar:2.0.0.M2</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.0.0.M2/org.springframework:spring-web:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.0.0.M2/org.springframework.cloud:spring-cloud-commons:jar:2.0.0.M9</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.0.0.M2/org.springframework.cloud:spring-cloud-commons:jar:2.0.0.M9/org.springframework.security:spring-security-crypto:jar:5.0.6.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.0.0.M2/io.github.openfeign:feign-core:jar:9.5.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.0.0.M2/io.github.openfeign:feign-slf4j:jar:9.5.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.0.0.M2/io.github.openfeign:feign-hystrix:jar:9.5.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.0.0.M2/io.github.openfeign:feign-hystrix:jar:9.5.1/com.netflix.hystrix:hystrix-core:jar:1.5.12</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.0.0.M2/io.github.openfeign:feign-hystrix:jar:9.5.1/com.netflix.hystrix:hystrix-core:jar:1.5.12/org.hdrhistogram:HdrHistogram:jar:2.1.9</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.0.0.M2/io.github.openfeign:feign-java8:jar:9.5.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-amqp:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-amqp:jar:2.0.3.RELEASE/org.springframework:spring-messaging:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-amqp:jar:2.0.3.RELEASE/org.springframework.amqp:spring-rabbit:jar:2.0.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-amqp:jar:2.0.3.RELEASE/org.springframework.amqp:spring-rabbit:jar:2.0.4.RELEASE/org.springframework.amqp:spring-amqp:jar:2.0.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-amqp:jar:2.0.3.RELEASE/org.springframework.amqp:spring-rabbit:jar:2.0.4.RELEASE/com.rabbitmq:amqp-client:jar:5.1.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-amqp:jar:2.0.3.RELEASE/org.springframework.amqp:spring-rabbit:jar:2.0.4.RELEASE/org.springframework:spring-tx:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-amqp:jar:2.0.3.RELEASE/org.springframework.amqp:spring-rabbit:jar:2.0.4.RELEASE/org.springframework.retry:spring-retry:jar:1.2.2.RELEASE</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.9.2</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.9.2/io.swagger:swagger-annotations:jar:1.5.20</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.9.2/io.swagger:swagger-models:jar:1.5.20</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2/io.springfox:springfox-core:jar:2.9.2</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-schema:jar:2.9.2</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-swagger-common:jar:2.9.2</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spring-web:jar:2.9.2</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.9.2/com.fasterxml:classmate:jar:1.3.4</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.9.2/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.9.2/org.springframework.plugin:spring-plugin-core:jar:1.2.0.RELEASE</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.9.2/org.springframework.plugin:spring-plugin-metadata:jar:1.2.0.RELEASE</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.9.2/org.mapstruct:mapstruct:jar:1.2.0.Final</node>
+            <node x="" y="">io.springfox:springfox-swagger-ui:jar:2.9.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.31</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.31</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/javax.validation:validation-api:jar:2.0.1.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-test:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2/org.ow2.asm:asm:jar:5.0.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/junit:junit:jar:4.12</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.assertj:assertj-core:jar:3.9.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.mockito:mockito-core:jar:2.15.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.mockito:mockito-core:jar:2.15.0/net.bytebuddy:byte-buddy:jar:1.7.11</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.mockito:mockito-core:jar:2.15.0/net.bytebuddy:byte-buddy-agent:jar:1.7.11</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.mockito:mockito-core:jar:2.15.0/org.objenesis:objenesis:jar:2.6</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE/org.springframework:spring-jcl:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.springframework:spring-test:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.xmlunit:xmlunit-core:jar:2.5.1</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="486.5" y="1169.5" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/ProjectApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+          <folding>
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforum_user/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-618">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforum_common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        <state relative-caret-position="-156">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/liquibase/changelogs/changelog-1.0.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>

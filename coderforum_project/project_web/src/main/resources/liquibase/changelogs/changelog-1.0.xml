@@ -1,0 +1,61 @@
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+         http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd">
+
+    <changeSet id="20190713-01" author="solo">
+        <createTable tableName="project_info">
+            <column name="project_id" type="varchar(64)" encoding="utf8" remarks="项目id">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="project_name" type="varchar(255)" encoding="utf8" remarks="项目名字"/>
+            <column name="project_difficulty" type="float" encoding="utf8" remarks="项目难度"/>
+            <column name="category_id" type="varchar(64)" encoding="utf8" remarks="项目类型类目编号"/>
+            <column name="project_status" type="int(11)" encoding="utf8" remarks="项目状态, 0招募中，1 进行中，2已完成，3失败，4延期，5删除"/>
+            <column name="project_desc" type="varchar(512)" encoding="utf8" remarks="项目简介"/>
+            <column name="project_creater_id" type="varchar(64)" encoding="utf8" remarks="项目创建者id"/>
+            <column name="team_id" type="varchar(64)" encoding="utf8" remarks="项目所属团队id"/>
+            <column name="create_time" type="bigint(64)" encoding="utf8" remarks="创建时间"/>
+            <column name="update_time" type="bigint(64)" encoding="utf8" remarks="更新时间"/>
+        </createTable>
+    </changeSet>
+    
+    <changeSet id="20190713-02" author="solo">
+        <createTable tableName="project_category" remarks="项目类型表">
+            <column name="id" type="varchar(64)" remarks="项目类型id">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="name" type="varchar(255)" remarks="类目类型名称"/>
+            <column name="status" type="int(11)" remarks="状态。1正常，2删除"/>
+            <column name="remark" type="varchar(255)" remarks="备注"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet id="20190713-03" author="solo">
+        <createTable tableName="project_like_user" remarks="项目点赞表">
+            <column name="id" type="varchar(64)" remarks="主键id">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="project_id" type="varchar(64)" remarks="项目id"/>
+            <column name="user_id" type="varchar(64)" remarks="点赞的用户id"/>
+            <column name="status" type="int(11)" remarks="点赞状态，0 取消点赞，1点赞"/>
+            <column name="type" type="int(11)" remarks="类型 1点赞"/>
+            <column name="create_time" type="bigint(64)" remarks="创建时间"/>
+            <column name="update_time" type="bigint(64)" remarks="更新时间"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet id="20190713-04" author="solo">
+        <createTable tableName="project_picture" remarks="项目图片表">
+            <column name="id" type="varchar(64)" remarks="图片id">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="project_id" type="varchar(64)" remarks="项目id"/>
+            <column name="picture_url" type="varchar(64)" remarks="图片地址"/>
+            <column name="picture_url_32" type="varchar(64)" remarks="图片地址32位"/>
+            <column name="picture_url_64" type="varchar(64)" remarks="图片地址64位"/>
+        </createTable>
+    </changeSet>
+
+</databaseChangeLog>
