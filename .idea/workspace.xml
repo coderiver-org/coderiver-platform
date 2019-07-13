@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47399ee3-d8be-4464-bdf1-c0cf81faf8f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/codeforum_contract/src/main/resources/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforum_eureka/src/main/resources/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforum_message/src/main/resources/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforum_user/src/main/resources/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforum_web/src/main/resources/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforum_user/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/codeforum_user/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/project_dao/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_dao/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/LiquibaseConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/LiquibaseConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforum_contract/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/codeforum_contract/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforum_eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/codeforum_eureka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforum_message/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/codeforum_message/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforum_user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/codeforum_user/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforum_web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/codeforum_web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coderforum_project/project_web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coderforum_project/project_web/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,6 +49,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="0-SNAPSHOT" value="2" />
+          <entry key="Dockerfile" value="6" />
           <entry key="class" value="3" />
           <entry key="gitignore" value="2" />
           <entry key="hha" value="1" />
@@ -48,8 +57,8 @@
           <entry key="java" value="162" />
           <entry key="pom" value="1" />
           <entry key="sql" value="4" />
-          <entry key="xml" value="89" />
-          <entry key="yml" value="22" />
+          <entry key="xml" value="98" />
+          <entry key="yml" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -57,88 +66,95 @@
           <entry key="CLASS" value="3" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="163" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="PLAIN_TEXT" value="8" />
           <entry key="SQL" value="4" />
           <entry key="UML" value="2" />
-          <entry key="XML" value="90" />
-          <entry key="YAML" value="22" />
+          <entry key="XML" value="99" />
+          <entry key="YAML" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="Dockerfile" value="7" />
           <entry key="dummy" value="1" />
           <entry key="java" value="4669" />
-          <entry key="xml" value="669" />
+          <entry key="xml" value="719" />
           <entry key="yml" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="4669" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="669" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="XML" value="719" />
           <entry key="YAML" value="51" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/src/main/java/com/coderiver/codeforum/project/dao/ProjectCategoryDao.java">
+        <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/LiquibaseConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/liquibase/changelogs/changelog-1.0.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            <state relative-caret-position="261">
+              <caret line="69" column="11" lean-forward="true" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codeforum_web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="946">
+              <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codeforum_web/src/main/resources/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            <state relative-caret-position="44">
+              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codeforum_web/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -173,13 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/dao/ProjectCategoryDao.java" />
-        <option value="$PROJECT_DIR$/coderforum_project/src/test/java/com/coderiver/codeforum/project/ProjectApplicationTest.java" />
-        <option value="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/service/ProjectCategoryService.java" />
-        <option value="$PROJECT_DIR$/coderforum_project/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/coderforum_project/src/test/java/com/coderiver/codeforum/project/service/ProjectCategoryServiceTest.java" />
-        <option value="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/controller/ProjectCategoryController.java" />
-        <option value="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/config/Swagger2Config.java" />
         <option value="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/ProjectApplication.java" />
         <option value="$PROJECT_DIR$/coderforum_project/src/main/java/com/coderiver/codeforum/project/consts/ConstantsPool.java" />
         <option value="$PROJECT_DIR$/codeforum_common/src/main/java/com/coderiver/codeforum/common/entity/StatusCode.java" />
@@ -199,11 +208,6 @@
         <option value="$PROJECT_DIR$/coderforum_project/dao/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/codeforum_common/pom.xml" />
-        <option value="$PROJECT_DIR$/codeforum_contract/pom.xml" />
-        <option value="$PROJECT_DIR$/codeforum_eureka/pom.xml" />
-        <option value="$PROJECT_DIR$/codeforum_message/pom.xml" />
-        <option value="$PROJECT_DIR$/codeforum_user/pom.xml" />
-        <option value="$PROJECT_DIR$/codeforum_web/pom.xml" />
         <option value="$PROJECT_DIR$/coderforum_project/project_service/src/main/java/com/coderiver/codeforum/project/service/ProjectCategoryService.java" />
         <option value="$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/controller/ProjectInfoController.java" />
         <option value="$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/controller/ProjectCategoryController.java" />
@@ -217,13 +221,25 @@
         <option value="$PROJECT_DIR$/coderforum_project/project_dao/pom.xml" />
         <option value="$PROJECT_DIR$/coderforum_project/project_service/pom.xml" />
         <option value="$PROJECT_DIR$/coderforum_project/project_common/pom.xml" />
-        <option value="$PROJECT_DIR$/coderforum_project/project_web/pom.xml" />
         <option value="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/liquibase/changelogs/changelog-1.0.xml" />
         <option value="$PROJECT_DIR$/codeforum_user/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/coderforum_project/project_dao/src/main/java/com/coderiver/codeforum/project/config/LiquibaseConfig.java" />
         <option value="$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/LiquibaseConfig.java" />
-        <option value="$PROJECT_DIR$/coderforum_project/project_dao/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/coderforum_project/project_dao/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/codeforum_eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/codeforum_eureka/src/main/resources/Dockerfile" />
+        <option value="$PROJECT_DIR$/codeforum_contract/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/codeforum_contract/pom.xml" />
+        <option value="$PROJECT_DIR$/codeforum_contract/src/main/resources/Dockerfile" />
+        <option value="$PROJECT_DIR$/codeforum_message/pom.xml" />
+        <option value="$PROJECT_DIR$/codeforum_message/src/main/resources/Dockerfile" />
+        <option value="$PROJECT_DIR$/codeforum_user/pom.xml" />
+        <option value="$PROJECT_DIR$/codeforum_user/src/main/resources/Dockerfile" />
+        <option value="$PROJECT_DIR$/codeforum_web/pom.xml" />
+        <option value="$PROJECT_DIR$/codeforum_web/src/main/resources/Dockerfile" />
+        <option value="$PROJECT_DIR$/coderforum_project/project_web/pom.xml" />
+        <option value="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/Dockerfile" />
       </list>
     </option>
   </component>
@@ -295,34 +311,51 @@
             <path>
               <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
               <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
+              <item name="codeforum_contract" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
               <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
-              <item name="project_dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
-              <item name="project_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="codeforum_contract" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
               <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
-              <item name="project_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="codeforum_contract" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
               <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
-              <item name="project_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="codeforum_contract" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
+              <item name="codeforum_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
+              <item name="codeforum_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
+              <item name="codeforum_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
+              <item name="codeforum_web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -330,8 +363,7 @@
             <path>
               <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
               <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
-              <item name="project_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="codeforum_web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -340,6 +372,11 @@
               <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
               <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
               <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
+              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
               <item name="project_web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -356,36 +393,6 @@
               <item name="project_web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
-              <item name="project_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
-              <item name="project_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
-              <item name="project_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
@@ -395,16 +402,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeforum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coderiver-platform" type="462c0819:PsiDirectoryNode" />
-              <item name="coderforum_project" type="462c0819:PsiDirectoryNode" />
-              <item name="project_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="liquibase" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -420,7 +417,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563009164169" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563031083148" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -435,6 +432,12 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.coderiver.codeforum.project.service" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/liquibase/changelogs" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.coderiver.codeforum.project.config" />
       <recent name="com.coderiver.codeforum.project" />
@@ -443,16 +446,10 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources" />
-      <recent name="$PROJECT_DIR$/coderforum_project/project_dao/src/main/resources" />
-      <recent name="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/liquibase" />
-      <recent name="$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project" />
-      <recent name="$PROJECT_DIR$/coderforum_project/project_service/src/main/java/com/coderiver/codeforum/project" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/liquibase/changelogs" />
+      <recent name="$PROJECT_DIR$/codeforum_web/src/main/resources" />
+      <recent name="$PROJECT_DIR$/codeforum_user/src/main/resources" />
+      <recent name="$PROJECT_DIR$/codeforum_message/src/main/resources" />
+      <recent name="$PROJECT_DIR$/codeforum_contract/src/main/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -503,6 +500,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ContractApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="codeforum_contract" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.coderiver.codeforum.contract.ContractApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EurekaServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="codeforum_eureka" />
       <extension name="coverage">
@@ -512,6 +516,13 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.coderiver.codeforum.eureka.EurekaServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="codeforum_message" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.coderiver.codeforum.message.MessageServer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -555,6 +566,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="codeforum_web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.coderiver.codeforum.web.WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
@@ -578,6 +596,9 @@
       <item itemvalue="Spring Boot.EurekaServer" />
       <item itemvalue="Spring Boot.ProjectApplication (1)" />
       <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.ContractApplication" />
+      <item itemvalue="Spring Boot.MessageServer" />
+      <item itemvalue="Spring Boot.WebApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -604,7 +625,8 @@
       <workItem from="1562680420526" duration="2604000" />
       <workItem from="1562771809047" duration="1413000" />
       <workItem from="1562853882329" duration="2422000" />
-      <workItem from="1562984067631" duration="7732000" />
+      <workItem from="1562984067631" duration="8619000" />
+      <workItem from="1563028731809" duration="1565000" />
     </task>
     <task id="LOCAL-00001" summary="Update Third Part Service Docker Command">
       <created>1556403823707</created>
@@ -634,7 +656,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40449000" />
+    <option name="totallyTimeSpent" value="42901000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -650,13 +672,13 @@
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.31082803" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.31082803" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.45732483" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3490446" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -687,91 +709,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update Third Part Service Docker Command" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/codeforum_message/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforum_web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/src/main/java/com/coderiver/codeforum/project/pojo/ProjectInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/controller/ProjectInfoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/src/main/resources/application.yml" />
-    <entry file="file://$PROJECT_DIR$/coderforum_project/src/test/java/com/coderiver/codeforum/project/service/ProjectCategoryServiceTest.java" />
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/controller/ProjectCategoryController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/InitBeanConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/Swagger2Config.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/WebSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_service/src/main/java/com/coderiver/codeforum/project/service/ProjectInfoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1138">
-          <caret line="106" column="15" selection-start-line="106" selection-start-column="15" selection-end-line="106" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_service/src/main/java/com/coderiver/codeforum/project/service/ProjectCategoryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/coderforum_project/project_common/src/main/java/com/coderiver/codeforum/project/consts/ConstantsPool.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
@@ -889,9 +826,10 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="0.844732375198963" x="1992.598186207439" y="697.1541346974664" />
+          <settings layout="Hierarchic Group" zoom="0.844732375198963" x="1993.0" y="697.0" />
           <SelectedNodes />
           <Categories />
+          <SCOPE>All</SCOPE>
           <VISIBILITY>All</VISIBILITY>
         </state>
       </provider>
@@ -1089,17 +1027,11 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="486.5" y="1169.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="487.0" y="1170.0" />
           <SelectedNodes />
           <Categories />
+          <SCOPE>All</SCOPE>
           <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforum_user/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-618">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -1197,30 +1129,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/src/main/resources/liquibase/changelogs/changelog-1.0.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1078">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforum_user/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/src/main/resources/liquibase/changelogs/changelog-1.0.xml" />
     <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/ProjectApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#670#671#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1231,16 +1144,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/src/main/java/com/coderiver/codeforum/project/config/LiquibaseConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/src/main/resources/liquibase/master.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/src/main/java/com/coderiver/codeforum/project/config/LiquibaseConfig.java" />
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/src/main/resources/liquibase/master.xml" />
     <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/java/com/coderiver/codeforum/project/config/LiquibaseConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="366">
@@ -1251,13 +1156,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/liquibase/changelogs/changelog-1.0.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
@@ -1265,17 +1163,137 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_dao/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/liquibase/changelogs/changelog-1.0.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforum_eureka/src/main/resources/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforum_eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforum_eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforum_contract/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforum_contract/src/main/resources/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforum_contract/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforum_message/src/main/resources/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforum_message/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforum_message/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforum_user/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforum_user/src/main/resources/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforum_user/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforum_web/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="69" column="11" lean-forward="true" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforum_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        <state relative-caret-position="44">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforum_web/src/main/resources/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coderforum_project/project_web/src/main/resources/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -1333,7 +1351,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>project_service</last-edited>
+          <last-edited>codeforum_common</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
